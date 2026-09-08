@@ -58,7 +58,7 @@ taskmate/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/parthpm21/taskmate.git
+git clone https://github.com/kshitijmaheshwari778/taskmate.git
 cd taskmate
 npm run install:all
 ```
