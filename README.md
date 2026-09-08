@@ -230,5 +230,4 @@ npm run dev
 ---
 
 ## Author
-
-Built by **Parth** — [GitHub @parthpm21](https://github.com/parthpm21)
+Built by **Kshitij** — [GitHub @kshitijmaheshwari778](https://github.com/kshitijmaheshwari778)
